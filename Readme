@@ -1,0 +1,15 @@
+# Employee Manger 
+
+This is an Employee Management System command-line application built with Node.js and MySQL. It allows you to manage employees, departments, and roles within your organization.
+
+## Features
+
+- View all departments, roles, and employees.
+- Add new departments, roles, and employees.
+- Update employee roles.
+- Clear and concise command-line interface (CLI).
+- Integration with MySQL database for data storage.
+
+## Preview
+
+![videoPrivew](./2023-12-13%2014-31-51.mkv)
